@@ -3,5 +3,7 @@ Konten
 ->belajar filmora
 ->UPLOAD WEB
 ->web hosting
-->belajar react
-->belajar laravel
+->belajar view
+->belajar java
+->belajar android
+
